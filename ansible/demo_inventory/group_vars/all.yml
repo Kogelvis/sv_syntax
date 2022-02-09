@@ -1,0 +1,9 @@
+proxmox_host: 172.16.0.17
+proxmox_username: root@pam
+proxmox_password: redacted
+proxmox_node: pmnode
+proxmox_bridge: vmbr0
+
+ci_username: clouduser
+ci_password: redacted
+ci_sshkey: ssh-ed25519 somekey user@host.tld

@@ -1,0 +1,7 @@
+hostname: demo2.syntax.sv
+ip_address: 172.16.0.22
+sockets: 1
+cores: 1
+mem: 1024
+
+proxmox_image: 'Alma8-Template'
